@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm currently learning about data science. I like dogs and food.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Will has a really big bum. Like a really big bum.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[helen.yip2@gmail.com](mailto:helen.yip2@gmail.com)
