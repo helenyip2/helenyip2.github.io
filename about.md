@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm currently learning about data science. I like dogs and food.
+Continuously learning about Data Science and it's applications. I also like food and dogs.
 
 ### More Information
 
-Will has a really big bum. Like a really big bum.
+I come from a mechanical engineering background in the Oil and Gas industry.
 
 ### Contact me
 
