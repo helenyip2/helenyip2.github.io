@@ -10,7 +10,7 @@ My hobbies include:
 - Eating food, preferably snacks and meat. (Steak is best!)
 - Reading books including fiction and graphic novel. I sometimes throw in some non-fiction into the mix as well.
 - Going to museums and art galleries. It's ridiculous how close I can get to something that's worth so much money!
-- Meeting and petting dogs. I love all of them eventhough I'm allergic.
+- Meeting and petting dogs. I love all of them even though I'm allergic.
 
 Posts on here will be a combination of concepts I want to learn more, thus making a post about it, and probably some random stuff to the mix.
 
