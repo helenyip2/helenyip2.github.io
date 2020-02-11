@@ -9,7 +9,7 @@ This is how I do it when working in a Linux environment
 
 Make sure that jupyter notebook is installed globally
 ```bash
-sudo install pip3 install jupyter
+sudo pip3 install jupyter
 ```
 
 Make sure you're in the `Environment` folder of your VM
@@ -29,14 +29,14 @@ If you want to get your virtual environment to be linked to your jupyter noteboo
 
 [] Explain what jupyter kernel means.
 
-1. First install `ipykernel` in order to add kernels to your jupyter notebook environment
+1. First install `ipykernel` in order to add kernels to your jupyter notebook environment.
 ```bash
 pip3 install ipykernel
 ```
 
 2. With your virtual environment open, set the following thing in your thing.
 ```bash
-python -m ipykernel install --user --name proj_env1 --display-name "project_env"
+python3 -m ipykernel install --user --name proj_env1 --display-name "project_env"
 ```
 What you put under `--name` is the actual name of your virtual environment.
 `--display-name` is what's shown as the name of the kernel in Jupyter notebook.
