@@ -1,3 +1,8 @@
+---
+layout: post
+title: Volunteering at Local Food Bank
+---
+
 When I was in high school, I volunteered at a food bank one time. I enjoyed it and it was one of the experiences that stayed in the back of my mind. (The one at the soup kitchen was a different story.)
 
 
